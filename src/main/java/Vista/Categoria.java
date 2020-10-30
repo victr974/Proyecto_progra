@@ -2,13 +2,12 @@
 package Vista;
 
 import com.mycompany.restaurat.Conexion_BD;
-import com.mysql.cj.jdbc.result.ResultSetMetaData;
 import java.awt.HeadlessException;
 import java.sql.CallableStatement;
 import java.sql.Connection;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;    
 
 /**
  *
